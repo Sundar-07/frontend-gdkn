@@ -1,1 +1,1 @@
-export const API_URL = "http://localhost:4000/api/v1/customers";
+export const API_URL = "https://backend-gdkn.herokuapp.com/api/v1/customers";
